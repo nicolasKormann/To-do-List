@@ -1,0 +1,30 @@
+.done {
+  text-decoration: line-through;
+  color: white;
+}
+
+
+ul {
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.txt-item, .drac-bg-green {
+  margin-left: 15px;
+}
+
+
+
+.item {
+  width: 100%;
+  padding: 10px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
