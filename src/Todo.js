@@ -14,8 +14,9 @@ function Todo() {
 
 
   useEffect(() => {
-    setItems(JSON.parse(localStorage.getItem('items')))
-
+    if (localStorage.items != null) {
+      setItems(JSON.parse(localStorage.getItem('items')))
+    }
   }, [])
 
   useEffect(() => {
