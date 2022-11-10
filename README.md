@@ -18,7 +18,7 @@ This is my first project using ReactJS. A Dracula-themed To-Do List.
 - ReactJS
 - DraculaUI
 
-## 📖 What I Learn
+## 📖 What I Learned
 
 - how to use useState hook
 - how to use useEffect hook
